@@ -28,7 +28,7 @@ The project will include both country-level data and personal preference data.
 
 ## Plan for Data Collection
 
-Public data will be obtained from reliable sources that analyze expat success and sources that :
+Public data will be obtained from reliable sources that analyze expat success, including:
 - **Expat Insider (InterNations)**
 - **OECD Migration Data**
 - **UN Migration Policy Database**
