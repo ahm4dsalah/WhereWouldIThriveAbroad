@@ -20,8 +20,8 @@ As an international student who wants to work abroad, I would like to make an in
 
 ### 1. Happiness and Social Data (The Core Model)
 
-| Dataset Name | Source |
-| :--- | :--- | :--- | :--- |
+| Dataset Name | Source | Data Role |
+| :--- | :--- | :--- |
 | **WHR Migration Appendix** | WHR 2018 Statistical Appendix 2 (Table 1) | Overall Happiness Of Domestic and Foreign-born population. |
 
 ### 2. Economic, Safety, and Social Metrics
