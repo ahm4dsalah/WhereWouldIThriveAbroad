@@ -1,37 +1,47 @@
 # Where Would I Thrive Abroad
-This is a data science project that explores global expatriate success factors to find countries that are most aligned with my personal priorities.
 
 ---
 
 ## Project Proposal
 
-As an international student that is planning to move abroad, I'd like to make an informed decision about which countries would fit best for my lifestyle, and goals.  
-This project will explore what factors influence expatriate success and happiness - such as cost of living, career opportunities, social structures, integration - and compare them with my own preferences and priorities.
+This project will explore what factors influence expatriate success and happiness - such as GDP, health, social structures. Using real-world datasets of country economic and social metrics, this project will investigate how those metrics influence happiness in both domestic and foreign-born country residents.
 
-The goal is to obtain a list of countries that are most aligned with my priorities to focus my considerations and plans.
-
----
-
-## Data to Be Used
-
-The project will include both country-level data and personal preference data.
-
-**Public data types expected on :**
-- Economic data (eg., career opportunities, cost of living)
-- Social data (eg., integration, social support, language barrier)
-- Well-being data (eg., happiness score, quality of life)
-
-**Personal data:**
-- My self-assessment ratings and preferences represented in a way that assigns more importance to specific conditions.
+"Is the happiness of foreign country residents influenced the same way as domestic residents?". To answer this, we will conduct Exploratory Data Analysis (EDA) to uncover initial patterns and correlations, followed by Hypothesis testing to determine if the influence of the like GDP differs between the domestic and foreign-born population. Finally, we will apply Machine Learning techniques to build a predictive model that calculates the degree to which those factors contribute to the happiness of the domestic and foreign-born population.
 
 ---
 
-## Plan for Data Collection
+## Motivation
 
-Public data will be obtained from reliable sources that analyze expat success, including:
-- **Expat Insider (InterNations)**
-- **OECD Migration Data**
-- **UN Migration Policy Database**
+As an international student who wants to work abroad, I would like to make an informed decision by moving beyond simple job placement and economic metrics to prioritize long-term well-being and happiness.
+
+---
+
+## Data Sources
+
+### 1. Happiness and Social Data (The Core Model)
+
+| Dataset Name | Source |
+| :--- | :--- | :--- | :--- |
+| **WHR Migration Appendix** | WHR 2018 Statistical Appendix 2 (Table 1) | Overall Happiness Of Domestic and Foreign-born population. |
+
+### 2. Economic, Safety, and Social Metrics
+
+| Dataset Name | Source | Key Metrics Included | Data Role |
+| :--- | :--- | :--- | :--- |
+| **Economic & Health Data** | World Bank DataBank | **GDP per Capita (PPP)**, Unemployment Rate, Infant Mortality Rate. | Provides objective **economic opportunity** and **heatlh** metrics. |
+| **Safety Data** | Institute for Economics & Peace (IEP) | **Global Peace Index (GPI) Score.** | Provides an independent measure of **geopolitical safety** and **risk**. |
+
+---
+
+## Hypothesis Testing
+
+**Null Hypothesis (H₀):** There is no significant difference between the influence of country metrics on the happiness of the domestic population and the influence of those same metrics on the foreign-born population.
+
+**Alternative Hypothesis (H₁):** The influence of country metrics on the happiness of the foreign-born population is significantly different from the influence of those metrics on the domestic population.
+
+---
+
+
 
 
 
