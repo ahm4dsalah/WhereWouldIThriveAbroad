@@ -1,0 +1,164 @@
+Country,Domestic Happiness wp16,Foreign Happiness wp16,Foreign Born's avg source-country happiness wp16
+Afghanistan,3.85,4.07,5.41
+Albania,5.03,5.29,
+Algeria,5.53,5.84,
+Angola,4.41,5.31,
+Argentina,6.44,5.84,5.85
+Armenia,4.42,4.1,4.93
+Australia,7.32,7.25,6.21
+Austria,7.26,6.9,5.75
+Azerbaijan,4.92,4.73,4.77
+Bahrain,5.54,6.24,4.78
+Bangladesh,4.71,4.82,
+Belarus,5.56,5.72,5.38
+Belgium,7.08,6.6,5.85
+Belize,6.28,5.8,6.08
+Benin,3.73,4.01,4.41
+Bhutan,5.2,4.75,
+Bolivia,5.77,6.28,
+Bosnia and Herzegovina,5,5.36,5.41
+Botswana,4.02,4.5,4.37
+Brazil,6.75,6.32,
+Bulgaria,4.35,4.59,
+Burkina Faso,4.09,4.15,4.28
+Burundi,3.5,3.16,
+Cambodia,4.18,3.62,
+Cameroon,4.56,5.13,4.49
+Canada,7.49,7.22,5.85
+Central African Republic,3.35,3.42,
+Chad,4.02,4.34,4.45
+Chile,6.42,6.5,5.81
+China,5.06,5.74,
+Colombia,6.33,6.44,
+Comoros,3.74,3.91,3.99
+Congo (Brazzaville),4.25,4.43,4.3
+Congo (Kinshasa),4.34,4.64,4.5
+Costa Rica,7.25,6.73,5.73
+Croatia,5.53,5.37,5.21
+Cyprus,6.03,6.34,5.49
+Czech Republic,6.51,5.88,5.85
+Denmark,7.71,7.55,6.12
+Djibouti,4.88,4.14,4.77
+Dominican Republic,5.14,5.24,4.71
+Ecuador,5.79,6.29,6.13
+Egypt,4.47,5.28,6.02
+El Salvador,5.95,5.58,
+Estonia,5.59,5,5.43
+Ethiopia,4.44,3.92,6.36
+Finland,7.5,7.66,5.99
+France,6.69,6.35,5.53
+Gabon,4.29,4.58,4.33
+Georgia,4.17,3.99,5.26
+Germany,6.76,6.37,5.76
+Ghana,4.73,4.67,
+Greece,5.53,5.28,5.21
+Guatemala,6.25,5.71,
+Guinea,3.84,3.95,4.18
+Guyana,5.98,6.67,
+Haiti,4.01,4.8,
+Honduras,5.29,5.66,
+Hong Kong,5.63,4.96,5.05
+Hungary,5.12,5.27,5.55
+Iceland,7.44,7.43,6.97
+India,4.61,4.55,4.95
+Indonesia,5.25,4.72,
+Iran,4.85,4.77,
+Iraq,4.68,5,5.46
+Ireland,7.1,6.92,6.21
+Israel,7.35,6.92,5.42
+Italy,6.21,5.96,5.65
+Ivory Coast,4.27,3.91,4.08
+Jamaica,5.56,6.86,
+Japan,6.02,6.46,5.64
+Jordan,5.47,5.35,5.13
+Kazakhstan,5.78,5.34,5.43
+Kenya,4.31,4.17,4.63
+Kosovo,5.51,5.73,5.5
+Kuwait,6.52,6.21,5.62
+Kyrgyzstan,5.07,4.75,5.45
+Laos,4.82,4.68,
+Latvia,5.45,4.73,5.46
+Lebanon,5.06,5.12,5.52
+Lesotho,4.35,4.4,
+Liberia,3.9,4.48,4.48
+Libya,5.65,5.19,4.91
+Lithuania,5.74,5.04,5.46
+Luxembourg,7.04,6.8,6.01
+Macedonia,4.9,4.97,5.41
+Madagascar,3.92,4.59,
+Malawi,4.09,4.34,4.44
+Malaysia,5.84,5.46,5.35
+Mali,4.17,4.48,4.29
+Malta,6.32,6.51,6.68
+Mauritania,4.51,4.73,4.5
+Mauritius,5.73,5.9,
+Mexico,6.83,7.03,6.41
+Moldova,5.63,5.19,5.23
+Mongolia,4.88,4.24,
+Montenegro,5.24,5.18,5.13
+Morocco,5.05,5.53,
+Mozambique,4.61,5.29,
+Myanmar,4.38,3,
+Namibia,4.48,5.25,
+Nepal,4.57,4.74,4.68
+Netherlands,7.49,6.94,5.74
+New Zealand,7.33,7.29,6.21
+Nicaragua,5.66,5.75,
+Niger,4.14,4.06,4.64
+Nigeria,5.11,5.09,4.56
+North Cyprus,5.89,5.44,5.35
+Norway,7.6,7.43,6.33
+Oman,6.93,6.83,5.23
+Pakistan,5.24,4.99,5.15
+Palestinian Territories,4.63,4.69,5.72
+Panama,6.84,6.34,5.98
+Paraguay,5.61,5.9,5.9
+Peru,5.62,7.09,
+Philippines,5.11,5.8,
+Poland,5.87,5.65,5.83
+Portugal,5.24,5.69,5.74
+Qatar,6.96,6.39,4.67
+Romania,5.41,5.86,
+Russia,5.56,5.55,5.19
+Rwanda,3.7,3.9,4.03
+Saudi Arabia,6.57,6.15,4.59
+Senegal,4.35,4.51,4.39
+Serbia,5.02,5.04,5.29
+Sierra Leone,4.29,4.58,4.37
+Singapore,6.54,6.61,5.32
+Slovakia,6.07,5.75,5.98
+Slovenia,5.97,5.7,5.46
+Somalia,5.14,5.71,
+Somaliland region,4.89,4.9,5.03
+South Africa,4.83,4.78,4.62
+South Korea,5.94,5.27,
+South Sudan,3.37,3.92,4.46
+Spain,6.53,6.11,5.81
+Sri Lanka,4.3,4.15,
+Sudan,4.39,4.32,5.78
+Suriname,6.27,,
+Swaziland,4.85,6.39,
+Sweden,7.38,7.18,6.27
+Switzerland,7.63,7.18,6.09
+Syria,4.12,3.52,5.81
+Taiwan Province of China,6.26,6.01,5.06
+Tajikistan,4.83,4.95,5.62
+Tanzania,3.63,3.59,
+Thailand,6.15,5.51,
+Togo,3.42,3.57,4.41
+Trinidad and Tobago,6.37,7.05,
+Tunisia,4.81,5.44,
+Turkey,5.32,5.49,5.49
+Turkmenistan,5.74,5.55,5.4
+Uganda,4.25,4.19,3.99
+Ukraine,4.76,4.55,5.54
+United Arab Emirates,7.18,6.69,4.76
+United Kingdom,6.91,6.68,5.85
+United States,7.16,6.88,6.25
+Uruguay,6.26,6.37,6.41
+Uzbekistan,5.78,5.6,5.37
+Venezuela,6.41,6.09,5.98
+Vietnam,5.31,4.85,
+Yemen,4.01,4.58,6.16
+Zambia,4.74,5.29,4.42
+Zimbabwe,4.16,4.41,4.63
