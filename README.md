@@ -22,7 +22,7 @@ As an international student who wants to work abroad, I would like to make an in
 
 | Dataset Name | Source | Data Role |
 | :--- | :--- | :--- |
-| **WHR Migration Appendix** | WHR 2018 Statistical Appendix 2 (Table 1) | Provides the Overall Happiness Of Domestic and Foreign-born population. |
+| **WHR Happiness Data** | WHR 2018 Statistical Appendix 2 (Table 1) | Provides the Overall Happiness Of Domestic and Foreign-born population. |
 
 ### 2. Economic, Safety, and Social Metrics
 
