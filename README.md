@@ -35,9 +35,17 @@ As an international student who wants to work abroad, I would like to make an in
 
 ## Hypothesis Testing
 
-**Null Hypothesis (H₀):** There is no significant difference between the influence of country metrics on the happiness of the domestic population and the influence of those same metrics on the foreign-born population.
+### Hypothesis 1
 
-**Alternative Hypothesis (H₁):** The influence of country metrics on the happiness of the foreign-born population is significantly different from the influence of those metrics on the domestic population.
+**Null Hypothesis (H₀):** There is no statistically significant correlation between GDP Per Capita and **Domestic**-born happiness.
+
+**Alternative Hypothesis (H₁):** There is a statistically significant correlation between GDP Per Capita and **Domestic**-born happiness.
+
+### Hypothesis 2
+
+**Null Hypothesis (H₀):** There is no statistically significant correlation between GDP Per Capita and **Foreign**-born happiness.
+
+**Alternative Hypothesis (H₁):** There is a statistically significant correlation between GDP Per Capita and **Foreign**-born happiness.
 
 ---
 
