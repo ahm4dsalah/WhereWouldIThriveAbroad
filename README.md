@@ -91,7 +91,7 @@ As an international student who wants to work abroad, I would like to make an in
 
 ---
 
-### Testing
+### Hypothesis Test Results
 
 To test those hypothesis we used spearmans coefficient and the results are as follows
 
