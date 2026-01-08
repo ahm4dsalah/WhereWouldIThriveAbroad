@@ -49,7 +49,128 @@ As an international student who wants to work abroad, I would like to make an in
 
 ---
 
+### Hypothesis 3
 
+**Null Hypothesis (H₀):** There is no statistically significant correlation between unemployment and **Domestic**-born happiness.
+
+**Alternative Hypothesis (H₁):** There is a statistically significant correlation between unemployment and **Domestic**-born happiness.
+
+### Hypothesis 4
+
+**Null Hypothesis (H₀):** There is no statistically significant correlation between Unemployment and **Foreign**-born happiness.
+
+**Alternative Hypothesis (H₁):** There is a statistically significant correlation between Unemployment and **Foreign**-born happiness.
+
+---
+
+### Hypothesis 5
+
+**Null Hypothesis (H₀):** There is no statistically significant correlation between Global Peace Index and **Domestic**-born happiness.
+
+**Alternative Hypothesis (H₁):** There is a statistically significant correlation between Global Peace Index and **Domestic**-born happiness.
+
+### Hypothesis 6
+
+**Null Hypothesis (H₀):** There is no statistically significant correlation between Global Peace Index and **Foreign**-born happiness.
+
+**Alternative Hypothesis (H₁):** There is a statistically significant correlation between Global Peace Index and **Foreign**-born happiness.
+
+---
+
+### Hypothesis 7
+
+**Null Hypothesis (H₀):** There is no statistically significant correlation between Infant Mortality and **Domestic**-born happiness.
+
+**Alternative Hypothesis (H₁):** There is a statistically significant correlation between Infant Mortality and **Domestic**-born happiness.
+
+### Hypothesis 8
+
+**Null Hypothesis (H₀):** There is no statistically significant correlation between Infant Mortality and **Foreign**-born happiness.
+
+**Alternative Hypothesis (H₁):** There is a statistically significant correlation between Infant Mortality and **Foreign**-born happiness.
+
+---
+
+### Testing
+
+To test those hypothesis we used spearmans coefficient and the results are as follows
+
++ There is a statistically significant **positive** correlation between GDP Per Capita and **Domestic-born** happiness
+
++ There is a statistically significant **positive** correlation between GDP Per Capita and **Foreign-born** happiness
+
++ There is no statistically significant correlation between Unemployment and **Domestic-born** happiness
+
++ There is no statistically significant correlation between Unemployment and **Foreign-born** happiness
+
++ There is a statistically significant **negative** correlation between Global Peace Index and **Domestic-born** happiness
+
++ There is a statistically significant **negative** correlation between Global Peace Index and **Foreign-born** happiness
+
++ There is a statistically significant **negative** correlation between Infant Mortality and **Domestic-born** happiness
+
++ There is a statistically significant **negative** correlation between Infant Mortality and **Domestic-born** happiness
+
+## Machine Learning Methods
+
+--- 
+
+For this part we applied supervised machine learning to predict the happiness scores for the domestic-born and foreign-born populations using the country metrics.
+
+We trained 2 seperate models for each population type (domestic-born population & foreign-born population) for comparison.
+
+### Models Used
+
+**1. Linear Regression**: We used linear regression as a baseline to compare with the forest regressor to see whether the linear model or non-linear model works best.
+
+**2. Forest Regressor**: This is our main model for predicting Happiness for both population types given country metrics.
+
+### Evaluation Metrics
+
+To evaluate both models we will use standard regression metrics:
+
++ **MAE (Mean Absolute Error)**: average difference between actual and predicted values.
++ **RMSE (Root Mean Squared Error)**: root square of the average squared difference.
++ **R<sup>2</sup>**: How well the model explains the data.
+
+### Results
+
+**Domestic-born happiness (Linear Regression):**
++ MAE: 0.585
++ RMSE: 0.668
++ R²: 0.636
+
+**Foreign-born happiness (Linear Regression):**
++ MAE: 0.764
++ RMSE: 0.903
++ R²: 0.185
+
+--- 
+
+**Domestic-born happiness (Random Forest Regression):**
++ MAE: 0.365
++ RMSE: 0.448
++ R²: 0.836
+
+**Foreign-born happiness (Random Forest Regression):**
++ MAE: 0.524
++ RMSE: 0.677
++ R²: 0.541
+
+### Actual vs. Predicted Graphs
+
+![Domestic-born (linear regression)](images/graph1.png)
+![Domestic-born (forest regression)](images/graph2.png)
+![Foreign-born (linear regression)](images/graph3.png)
+![Foreign-born (forest regression)](images/graph4.png)
+
+### Result Interpretation
+
++ Random Forest Regression outperformed Linear Regression for predicting happiness in both populations, shown by lower MAE/RMSE and higher R² scores.
+
++ Domestic-born happiness is much more predictable from the country-level metrics than foreign-born happiness.
+
++ This suggests domestic-born happiness is strongly tied to the included national indicators (GDP, health, peace, etc.), while foreign-born happiness likely has more deciding factors.
 
 
 
